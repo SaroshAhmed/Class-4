@@ -1,13 +1,24 @@
-.flick{
+.on_switch{
     align-content: center;
     background-color: grey;
-    color: yellow;
+    color: white;
+}
+.off_switch{
+    align-content: center;
+    background-color: grey;
+    color: black;
 }
 body{
    align-content: center; 
    text-align: center;
 }
-.head{
-    align-content: center;
-    text-align: center;
+.increase{
+    background-color: red;
+    color:white;
+
+}
+.decrease{
+    background-color: blue;
+    color: white;
+    
 }
