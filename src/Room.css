@@ -1,0 +1,13 @@
+.flick{
+    align-content: center;
+    background-color: grey;
+    color: yellow;
+}
+body{
+   align-content: center; 
+   text-align: center;
+}
+.head{
+    align-content: center;
+    text-align: center;
+}
